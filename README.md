@@ -41,7 +41,7 @@ Este projeto desenvolve um **dashboard interativo em Power BI** para análise fi
 ## 📁 Estrutura do Projeto
 
 ```text
-📁 analise_estoque_powerbi/
+📁 acompanhamento_financeiro_dre_powerbi/
 ├── 📁 data/                              
 │   └── raw/                                              # Dados brutos                                               
 │      └── db_dre.xlsx                             
@@ -60,7 +60,7 @@ Este projeto desenvolve um **dashboard interativo em Power BI** para análise fi
 
 ## 🛠️ Tecnologias Utilizadas
 
-- **Excel**: Fonte de dados estruturada (bd_estoque.xlsx)
+- **Excel**: Fonte de dados estruturada (db_dre.xlsx)
 - **Power Query**: ETL (Extract, Transform, Load) e transformação de dados
 - **Power BI Desktop**: Desenvolvimento do dashboard e modelagem de dados
 - **DAX (Data Analysis Expressions)**: Criação de medidas calculadas e KPIs
